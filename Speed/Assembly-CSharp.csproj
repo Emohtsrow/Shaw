@@ -61,7 +61,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Assets for Redo\Scripts\AICharacterControl.cs" />
-    <Compile Include="Assets\Assets for Redo\Scripts\CameraLook.cs" />
     <Compile Include="Assets\Assets for Redo\Scripts\Scripts Platform\AxisTouchButton.cs" />
     <Compile Include="Assets\Assets for Redo\Scripts\Scripts Platform\ButtonHandler.cs" />
     <Compile Include="Assets\Assets for Redo\Scripts\Scripts Platform\CrossPlatformInputManager.cs" />
@@ -75,6 +74,7 @@
     <Compile Include="Assets\Assets for Redo\Scripts\Scripts Platform\VirtualInput.cs" />
     <Compile Include="Assets\Assets for Redo\Scripts\ThirdPersonCharacter.cs" />
     <Compile Include="Assets\Assets for Redo\Scripts\ThirdPersonUserControl.cs" />
+    <Compile Include="Assets\Assets for Redo\Scripts\UpgradeCamera.cs" />
     <Compile Include="Assets\MenuOperator.cs" />
     <Compile Include="Assets\Pause.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
